@@ -1,0 +1,18 @@
+p{
+    background-color:pink;
+    text-align:center;
+}
+#second-p{
+    color: green
+}
+.even{
+    color: green
+}
+.odd{
+    color: red
+}
+.first{
+    
+    font-family: monospace;
+    font-size: 30;
+}
